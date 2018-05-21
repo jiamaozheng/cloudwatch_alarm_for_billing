@@ -1,5 +1,5 @@
 # set_alarm_for_stopping_ec2
-This script is used to create a billing alarm to monitor your estimated AWS charges
+This script is used to create a billing alarm to monitor your estimated AWS charges.
 By default, the alarm is triggered when the cost is over $500 over six hours period.
 Please feel free to adjust the threshold to meet your needs.
 
